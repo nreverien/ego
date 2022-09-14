@@ -15,6 +15,8 @@ import java.util.regex.Pattern;
  */
 public class Mail {
   public static void main(String[] args) {
-        System.out.println("reverien.ndaboroheye@obr.gov.bi");
+        System.out.println("Utilisation de git et git hub");
+		
+		System.out.println("NDABORH J e ARC");
     }
 }
